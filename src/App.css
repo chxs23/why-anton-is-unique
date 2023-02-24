@@ -1,0 +1,34 @@
+.app {
+  display: flex;
+  justify-content: center;
+  margin: 10% 20%;
+  flex-direction: column;
+}
+
+.header {
+  text-align: center;
+  margin: auto;
+  font-size: 2em;
+}
+@media screen and (max-width: 480px) {
+  main {
+    font-size: 1.2em;
+  }
+}
+main {
+  margin: auto;
+  margin-top: 3em;
+  font-size: 1.5em;
+}
+
+@media screen and (max-width: 600px) {
+  .app {
+    margin: 20%;
+  }
+  main {
+    font-size: 1.2em;
+  }
+  .header {
+    font-size: 1.5em;
+  }
+}
