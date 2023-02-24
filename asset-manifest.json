@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/why-anton-is-unique/static/css/main.6ccf225a.css",
+    "main.js": "/why-anton-is-unique/static/js/main.80c68abe.js",
+    "index.html": "/why-anton-is-unique/index.html",
+    "main.6ccf225a.css.map": "/why-anton-is-unique/static/css/main.6ccf225a.css.map",
+    "main.80c68abe.js.map": "/why-anton-is-unique/static/js/main.80c68abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccf225a.css",
+    "static/js/main.80c68abe.js"
+  ]
+}

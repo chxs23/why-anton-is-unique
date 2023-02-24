@@ -1,0 +1,2 @@
+body{font-family:monospace;margin:0}.app{display:flex;flex-direction:column;justify-content:center;margin:10% 20%}.header{font-size:2em;margin:auto;text-align:center}@media screen and (max-width:480px){main{font-size:1.2em}}main{font-size:1.5em;margin:3em auto auto}@media screen and (max-width:600px){.app{margin:20%}main{font-size:1.2em}.header{font-size:1.5em}}
+/*# sourceMappingURL=main.6ccf225a.css.map*/
